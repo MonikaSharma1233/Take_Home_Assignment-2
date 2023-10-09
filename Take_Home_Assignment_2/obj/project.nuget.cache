@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QHM7b8bPdPqJcSUg5Ag2E0RbYcFhnGggvxhOaF/qTmemcyAIstPPqjcMMhG/M81lo2jVH2nEDE1N7q1SJY9ggg==",
+  "success": true,
+  "projectFilePath": "D:\\Monika's Pojects\\Take_Home_Assignment_2\\Take_Home_Assignment_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patha\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
